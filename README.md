@@ -3,11 +3,7 @@
 A simple maze puzzle game where a rat must reach the food! Built using **HTML, CSS, and JavaScript**, 
 this project visualizes static and randomly generated mazes with a playable rat character.
 
-## 🚀 Features
 
-- 🧱 Multiple levels of pre-defined mazes
-- 🐭 Movable rat controlled by arrow keys
-- 🍕 Food at the maze exit
 
 ## 🛠️ Technologies Used
 
